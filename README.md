@@ -1,4 +1,4 @@
-magento2-Payfort_Fort
+Magento 2 Payfort Fort
 ======================
 
 Payfort payment gateway Magento2 extension. Payfort is the Most Trusted Online Payment Gateway in the Middle East
