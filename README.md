@@ -2,7 +2,9 @@ Magento 2 Payfort Fort
 ======================
 
 Payfort payment gateway Magento2 extension. Payfort is the Most Trusted Online Payment Gateway in the Middle East
-PAYFORT is here to help you accept online payments, reduce fraud, and maximize your revenue
+PAYFORT is here to help you accept online payments, reduce fraud, and maximize your revenue.
+
+Contact with https://www.mageplaza team or https://www.payfort.com/ for more information.
 
 
 Install
